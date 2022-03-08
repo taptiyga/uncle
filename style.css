@@ -8,10 +8,10 @@ body {
 }
 
 .dot {
-    width: 35px;
-    height: 35px;
+    width: 55px;
+    height: 55px;
     position: absolute;
-    background: url('img/petal.png');
+    background: url('img/white_roses.png');
     background-size: 100% 100%;
 }
 
